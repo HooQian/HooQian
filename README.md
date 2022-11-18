@@ -1,5 +1,7 @@
 # HooQian
 
+&emsp;&emsp;喂~姓Hoo(Hu)名Qian的TA，我终于又遇见你了……
+
 ## 由来
 
 &emsp;&emsp;先来看一些简单的单词：Look、Book、Good……
