@@ -18,6 +18,8 @@
 
 &emsp;&emsp;那代表这个站点又碰到了一个有缘人。
 
+&emsp;&emsp;**同时也代表，TA又遇到了跟TA同名的TA……**
+
 ## Github
 
 &emsp;&emsp;[github.com/HooQian](https://github.com/hooqian)
