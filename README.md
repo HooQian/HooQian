@@ -21,3 +21,5 @@
 ## Github
 
 &emsp;&emsp;[github.com/HooQian](https://github.com/hooqian)
+
+<div align="center">&copy; Powered by <a href="https://www.hooqian.com">HooQian</a></div>
