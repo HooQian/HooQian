@@ -27,8 +27,3 @@
 &emsp;&emsp;[github.com/HooQian](https://github.com/hooqian)
 
 <div align="center">&copy; Powered by <a href="https://www.hooqian.com">HooQian</a></div>
-
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"K0dM2O8QBhFcIKoE",ck:"K0dM2O8QBhFcIKoE"})</script>
-
-<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/K0dM2O8QBhFcIKoE/quote.js?theme=0&f=12&display=0,1,1,1,0,0,0,1"></script>
